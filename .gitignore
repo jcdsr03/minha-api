@@ -1,0 +1,15 @@
+﻿# Node/TypeScript (futuro)
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+
+# VSCode/IDE
+.vscode/
+*.code-workspace
+
+# SO/arquivos temporários
+.DS_Store
+Thumbs.db
+*.log
